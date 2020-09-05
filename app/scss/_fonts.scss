@@ -1,0 +1,59 @@
+%ubuntu-lught {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 300;
+}
+
+%ubuntu-medium {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 500;
+}
+
+%ubuntu-bold {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'SFProDisply-Light', sans-serif;
+  src: url('../fonts/SFProDisplay-Light.woff2') format('woff2'),
+    url('../fonts/SFProDisplay-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SFProDisply-Reqular', sans-serif;
+  src: url('../fonts/SFProDisplay-Reqular.woff2') format('woff2'),
+    url('../fonts/SFProDisplay-ReMedium.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SFProDisply-Medium', sans-serif;
+  src: url('../fonts/SFProDisplay-Medium.woff2') format('woff2'),
+    url('../fonts/SFProDisplay-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SFProDisply-Semibold', sans-serif;
+  src: url('../fonts/SFProDisplay-Semibold.woff2') format('woff2'),
+    url('../fonts/SFProDisplay-Semibold.woff') format('woff');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'SFProDisply-Bold', sans-serif;
+  src: url('../fonts/SFProDisplay-Bold.woff2') format('woff2'),
+    url('../fonts/SFProDisplay-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
